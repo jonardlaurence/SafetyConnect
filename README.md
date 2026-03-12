@@ -1,6 +1,6 @@
 # SafetyConnect
 
-## SafetyConnect  is a discreet, wearable, and protective wristband that detects alcohol and gas leaks that alerts the user and their parents and/or guardian. 
+### SafetyConnect  is a discreet, wearable, and protective wristband that detects alcohol and gas leaks that alerts the user and their parents and/or guardian. 
 
 ## User Instructions
 1. Wear the SafetyConnect on your wrist.
