@@ -20,7 +20,6 @@ The system operates on a **Detect Validate - Alert** logic to ensure accuracy an
 **4. Communication (GSM Module)**
    Once a threat is validated, the **SIM800L Module** automatically transmits a distress SMS to the pre-programmed guardian's mobile number.
    
-If the sensor detects "clean air (below 500), an internal time starts. If the air remains clean for **30 minutes,** the "Strike Counter" resets to zero, ensuring one-time environmental spikes don't trigger future alerts.
 ---
 
 ### Features
