@@ -19,6 +19,9 @@ The system operates on a **Detect Validate - Alert** logic to ensure accuracy an
    
 **4. Communication (GSM Module)**
    Once a threat is validated, the **SIM800L Module** automatically transmits a distress SMS to the pre-programmed guardian's mobile number.
+
+**5.Biological Monitoring (Pulse Sensor)**
+   Using the heart-shape **Pulse/Heart Rate Sensor,** the device monitors the wearer's heart rate (BPM).
    
 ---
 
