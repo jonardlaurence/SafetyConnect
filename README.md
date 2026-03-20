@@ -8,12 +8,15 @@ The system operates on a **Detect Validate - Alert** logic to ensure accuracy an
 
 **1. Detection (The MQ Sensor**
   **The MQ Gas Sensor** samples the ambient air every **15 seconds.** It looks for the specific molecular concentrations of ethanol and natural gas.
- - **Threshold:** If the sensor reading exceeds a value of **500**, the local buzzer activates immediately..
+ - **Threshold:** If the sensor reading exceeds a value of **500**, the local buzzer activates immediately.
+   
 **2. Validation**
    To prevent false alarms (e.g., from hand sanitizers or perfume), the system requires **three consecutive "High" readings** (totalling 45 seconds of exposure).
  -if the threat persists for 45 seconds, it is confirmed as a genuine hazard.
+ 
 **3. False Alarm Mitigation (The 30-Minute Reset)**
    If the sensor detects "clean air (below 500), an internal time starts. If the air remains clean for **30 minutes,** the "Strike Counter" resets to zero, ensuring one-time environmental spikes don't trigger future alerts.
+   
 **4. Communication (GSM Module)**
    Once a threat is validated, the **SIM800L Module** automatically transmits a distress SMS to the pre-programmed guardian's mobile number.
    
