@@ -5,6 +5,7 @@ is a discreet, wearable, and protective wristband that detects alcohol and gas l
 
 ## How IT Works
 The system operates on a **Detect Validate - Alert** logic to ensure accuracy and reduce "alert fatigue" for parents.
+
 **1. Detection (The MQ Sensor**
 **The MQ Gas Sensor** samples the ambient air every **15 seconds.** It looks for the specific molecular concentrations of ethanol and natural gas.
  - **Threshold:** If the sensor reading exceeds a value of **500**, the local buzzer activates immidiately..
