@@ -1,7 +1,7 @@
 # SafetyConnect Wristband
 
 ## Project Overview:  
-is a discreet, wearable, and protective wristband that detects alcohol and gas leaks that alerts the user and their parents and/or guardian. Unlike reactive seafety measures, this wristband autonomously detects environmental hazards specifically **Alcohol (Ethanol)** and **Natural Gas** and bridges the communication gap between a minor and their guardian using automated GSM alerts.
+***SafetyConnect*** is a discreet, wearable, and protective wristband that detects alcohol and gas leaks that alerts the user and their parents and/or guardian. Unlike reactive seafety measures, this wristband autonomously detects environmental hazards specifically **Alcohol (Ethanol)** and **Natural Gas** and bridges the communication gap between a minor and their guardian using automated GSM alerts.
 
 ## How It Works
 The system operates on a **Detect Validate - Alert** logic to ensure accuracy and reduce "alert fatigue" for parents.
