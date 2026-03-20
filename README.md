@@ -33,7 +33,7 @@ Once a threat is validated, the **SIM800L Module** automatically transmits a dis
 - **Future-Ready:** Development paths for GPS tracking and Heart Rate monitoring.
   
 
-## User Instructions
+### User Instructions
 1. Wear the SafetyConnect on your wrist.
 2. Press and Hold the side button till display show
 3. If gas and/or alcohol is detected, the buzzer will make noise and the LED will display warnings (Thrice). Hence, on the third time, Buzz and SMS Alert to Guardians.
